@@ -1,4 +1,4 @@
-# Excel Completo: Do Básico ao Avançado
+# Excel Completo
 
 Repositório educacional dedicado ao estudo de Microsoft Excel, abrangendo desde os fundamentos das planilhas eletrônicas até recursos avançados de análise de dados, automação e otimização.
 
