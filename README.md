@@ -506,33 +506,6 @@ Projeções estatísticas.
 
 ---
 
-## Módulo 13 — Fórmulas Matriciais
-
-### Conceitos
-
-Fórmulas matriciais permitem realizar operações sobre conjuntos de dados simultaneamente.
-
-### Atalho Tradicional
-
-```text
-CTRL + SHIFT + ENTER
-```
-
-### Fórmulas CSE
-
-```excel
-={1\2;3\4;5\6}
-```
-
-### Aplicações
-
-- Processamento vetorizado
-- Otimização de cálculos
-- Grandes bases de dados
-- Modelagem avançada
-
----
-
 # Projetos Desenvolvidos
 
 | Projeto | Principais Competências |
@@ -543,20 +516,6 @@ CTRL + SHIFT + ENTER
 | Solver | Otimização |
 | Macros | Automação |
 | Tabelas Dinâmicas | Análise de Dados |
-
----
-
-# Tecnologias Utilizadas
-
-```text
-Microsoft Excel
-
-Tabelas Dinâmicas
-
-Dashboards
-
-Business Intelligence
-```
 
 ---
 
