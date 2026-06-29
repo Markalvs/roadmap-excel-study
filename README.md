@@ -513,7 +513,6 @@ Projeções estatísticas.
 | Recibo de Pagamento Autônomo | Relatórios financeiros |
 | Controle de Estoque | Gestão operacional |
 | Dashboard de Vendas | Business Intelligence |
-| Solver | Otimização |
 | Macros | Automação |
 | Tabelas Dinâmicas | Análise de Dados |
 
