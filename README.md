@@ -553,14 +553,6 @@ Microsoft Excel
 
 Tabelas Dinâmicas
 
-Solver
-
-Macros VBA
-
-Power Query
-
-Power Pivot
-
 Dashboards
 
 Business Intelligence
